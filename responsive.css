@@ -1,0 +1,109 @@
+/* BAGIAN LAPTOP DAN TABLET*/
+@media all and (max-width: 1000px) {
+
+/*service*/
+.col-4{
+   width: 50%;
+   margin-bottom: 50px;
+ }
+ .service{
+  display: block;
+ }
+header{
+  position: inherit;
+}
+/*  BAGIAN HEADER */
+ .bagian-atas h1 {            
+ font-size: 32px;            
+}  
+
+
+.heading h2{
+   font-size: 20px; 
+}
+
+
+/* BAGIAN REEDEM */
+.text1{
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.text2{
+  font-size: 18px;
+  line-height: 20px;
+}
+
+.text3{
+  font-size: 12px;
+  line-height: 20px;
+
+}
+
+
+}
+
+/* Untuk Smartphones */
+@media all and (max-width: 670px) {
+
+/*sevice*/  
+
+.col-4 {
+width: 100%;
+  }
+
+.header-right {
+    display: none;
+  }
+.menu-icon {
+    display: block;
+  }
+
+/*BAGIAN REEDEM*/
+  
+.btn {
+    width: 100%;
+
+}
+
+.reedem{
+  width: 80%;
+}
+  
+.text1{
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.text2{
+  font-size: 18px;
+  line-height: 20px;
+}
+
+.text3{
+  font-size: 12px;
+  line-height: 20px;
+
+}
+
+/* BAGIAN HEADER*/
+
+.bagian-atas {
+    text-align: left;
+}
+  
+.bagian-atas h1{
+  font-size: 24px;
+  line-height: 36px;
+
+}
+  
+footer {
+    text-align: left;
+}
+.img-box1 img{
+  max-width: 50%;
+  height: auto;
+}
+} 
+
